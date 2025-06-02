@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hive Sphere | Accelerate Your Impact</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  </head>
+  <body class="bg-black text-white font-sans">
+
+    <!-- Hero -->
+    <section class="min-h-screen flex flex-col items-center justify-center text-center px-6">
+      <h1 class="text-5xl md:text-7xl font-bold leading-tight mb-6">Accelerate Your Thinking. <br/>Grow With Impact.</h1>
+      <p class="text-xl md:text-2xl text-gray-300 max-w-2xl mb-8">Join a curated experience for founders and thinkers who want to build powerful communities, mental models, and creative capital.</p>
+      <a href="#apply" class="bg-white text-black px-6 py-3 text-lg rounded-xl font-semibold hover:bg-gray-300 transition">Apply Now</a>
+    </section>
+
+    <!-- What You Get -->
+    <section class="py-20 bg-gray-900 px-6 text-center">
+      <h2 class="text-4xl font-bold mb-12">What You'll Unlock</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+        <div class="p-6 bg-gray-800 rounded-xl">
+          <h3 class="text-2xl font-semibold mb-2">Clarity & Mental Models</h3>
+          <p class="text-gray-300">Learn frameworks that sharpen your thinking and decision-making.</p>
+        </div>
+        <div class="p-6 bg-gray-800 rounded-xl">
+          <h3 class="text-2xl font-semibold mb-2">Founder-Led Community</h3>
+          <p class="text-gray-300">Surround yourself with founders, creators, and curious minds.</p>
+        </div>
+        <div class="p-6 bg-gray-800 rounded-xl">
+          <h3 class="text-2xl font-semibold mb-2">Creative Acceleration</h3>
+          <p class="text-gray-300">Scale your ideas into content, influence, and opportunity using AI and systems.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-20 px-6">
+      <h2 class="text-4xl font-bold text-center mb-12">What People Are Saying</h2>
+      <div class="max-w-4xl mx-auto space-y-10">
+        <blockquote class="bg-gray-800 p-6 rounded-xl">
+          <p class="text-lg text-gray-100">“Joining Hive Sphere completely changed the way I approach community and thought leadership. It’s a must for modern founders.”</p>
+          <footer class="mt-4 text-sm text-gray-400">— Alex M., Community Founder</footer>
+        </blockquote>
+        <blockquote class="bg-gray-800 p-6 rounded-xl">
+          <p class="text-lg text-gray-100">“I thought I was just signing up for a program. What I found was a circle of momentum, clarity, and actual execution.”</p>
+          <footer class="mt-4 text-sm text-gray-400">— Priya R., Creator-Builder</footer>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section id="apply" class="py-20 bg-white text-black text-center px-6">
+      <h2 class="text-4xl font-bold mb-6">Ready to Build Smarter?</h2>
+      <p class="text-lg max-w-2xl mx-auto mb-8">We’re curating a small circle of creative founders and thinkers. If you’re serious about systems, scale, and substance — apply now.</p>
+      <a href="https://yourapplicationform.link" class="bg-black text-white px-6 py-3 text-lg rounded-xl font-semibold hover:bg-gray-800 transition">Apply to Join</a>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center text-gray-500 text-sm py-10">
+      © 2025 Hive Sphere. All rights reserved.
+    </footer>
+  </body>
+</html>
